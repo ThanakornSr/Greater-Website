@@ -1,7 +1,7 @@
-# WEB_PRO_RE
+# Greater
 
 ## Overview
-`WEB_PRO_RE` is a full-stack web application using Node.js and Express for the backend and Vue 3 + Vite for the frontend. The project uses MySQL with Prisma ORM for database management and TailwindCSS for styling.
+`Greater` is a full-stack web application using Node.js and Express for the backend and Vue 3 + Vite for the frontend. The project uses MySQL with Prisma ORM for database management and TailwindCSS for styling.
 
 ---
 
